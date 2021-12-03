@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="booking-hotel-online">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/google-api-client-1.32.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/google-api-services-gmail-v1-rev110-1.25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stripe-java-20.77.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guava-30.1.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqljdbc4-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
